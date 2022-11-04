@@ -1,0 +1,52 @@
+{
+	"feeds": [
+		{
+			"id": 1,
+			"imgSrc": "card1.png",
+			"publishDate": "2022-9-04T13:06:07Z",
+			"noOfComments": 555,
+			"noOfLikes": 666,
+			"publisher": {
+				"name": "Dean Winchester",
+				"profilePicture": "avatar2.png",
+				"following": true
+			}
+		},
+		{
+			"id": 2,
+			"imgSrc": "card2.png",
+			"publishDate": "2022-8-04T13:06:07Z",
+			"noOfComments": 555,
+			"noOfLikes": 666,
+			"publisher": {
+				"name": "Jesse Pinkman",
+				"profilePicture": "avatar5.png",
+				"following": false
+			}
+		},
+		{
+			"id": 3,
+			"imgSrc": "card3.png",
+			"publishDate": "2022-10-04T13:06:07Z",
+			"noOfComments": 555,
+			"noOfLikes": 666,
+			"publisher": {
+				"name": "Walter White",
+				"profilePicture": "avatar4.png",
+				"following": false
+			}
+		},
+		{
+			"id": 4,
+			"imgSrc": "card4.png",
+			"publishDate": "2022-11-04T13:06:07Z",
+			"noOfComments": 555,
+			"noOfLikes": 666,
+			"publisher": {
+				"name": "John Smith",
+				"profilePicture": "avatar6.png",
+				"following": true
+			}
+		}
+	]
+}
