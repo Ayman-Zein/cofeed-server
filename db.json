@@ -1,60 +1,60 @@
 {
-	"feeds": [
-		{
-			"id": 1,
-			"imgSrc": "card1.png",
-			"publishDate": "2022-9-04T13:06:07Z",
-			"noOfComments": 55,
-			"noOfLikes": 632,
-			"isLiked": true,
-			"isPopular": true,
-			"publisher": {
-				"name": "Dean Winchester",
-				"profilePicture": "avatar2.png",
-				"following": true
-			}
-		},
-		{
-			"id": 2,
-			"imgSrc": "card3.png",
-			"publishDate": "2022-8-04T13:06:07Z",
-			"noOfComments": 24,
-			"noOfLikes": 72,
-			"isLiked": false,
-			"isPopular": true,
-			"publisher": {
-				"name": "Jesse Pinkman",
-				"profilePicture": "avatar5.png",
-				"following": false
-			}
-		},
-		{
-			"id": 3,
-			"imgSrc": "card3.png",
-			"publishDate": "2022-10-04T13:06:07Z",
-			"noOfComments": 18,
-			"noOfLikes": 22,
-			"isLiked": false,
-			"isPopular": false,
-			"publisher": {
-				"name": "Walter White",
-				"profilePicture": "avatar4.png",
-				"following": false
-			}
-		},
-		{
-			"id": 4,
-			"imgSrc": "card1.png",
-			"publishDate": "2022-11-04T13:06:07Z",
-			"noOfComments": 16,
-			"noOfLikes": 48,
-			"isLiked": true,
-			"isPopular": false,
-			"publisher": {
-				"name": "John Smith",
-				"profilePicture": "avatar6.png",
-				"following": true
-			}
-		}
-	]
+  "feeds": [
+    {
+      "id": 1,
+      "imgSrc": "card1.png",
+      "publishDate": "2022-9-04T13:06:07Z",
+      "noOfComments": 55,
+      "noOfLikes": 632,
+      "isLiked": true,
+      "isPopular": true,
+      "publisher": {
+        "name": "Dean Winchester",
+        "profilePicture": "avatar2.png",
+        "following": true
+      }
+    },
+    {
+      "id": 2,
+      "imgSrc": "card3.png",
+      "publishDate": "2022-8-04T13:06:07Z",
+      "noOfComments": 24,
+      "noOfLikes": 72,
+      "isLiked": false,
+      "isPopular": true,
+      "publisher": {
+        "name": "Jesse Pinkman",
+        "profilePicture": "avatar5.png",
+        "following": false
+      }
+    },
+    {
+      "id": 3,
+      "imgSrc": "card3.png",
+      "publishDate": "2022-10-04T13:06:07Z",
+      "noOfComments": 18,
+      "noOfLikes": 22,
+      "isLiked": false,
+      "isPopular": false,
+      "publisher": {
+        "name": "Walter White",
+        "profilePicture": "avatar4.png",
+        "following": false
+      }
+    },
+    {
+      "id": 4,
+      "imgSrc": "card1.png",
+      "publishDate": "2022-11-04T13:06:07Z",
+      "noOfComments": 16,
+      "noOfLikes": 48,
+      "isLiked": true,
+      "isPopular": false,
+      "publisher": {
+        "name": "John Smith",
+        "profilePicture": "avatar6.png",
+        "following": true
+      }
+    }
+  ]
 }
